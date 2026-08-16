@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/y0bahrambeigi/y0bahrambeigi/main/assets/business-card.jpg" alt="Yousef Bahram Beigi — Professional Business Card" width="100%" />
+
+<br>
+
 # Yousef Bahram Beigi
 
 ### Civil & Structural Engineering · Research · AI · Optimization
