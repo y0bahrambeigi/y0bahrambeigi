@@ -17,6 +17,16 @@ Structural Optimization · Metaheuristic Algorithms · Artificial Intelligence i
 
 ---
 
+### Featured Publication
+
+**BHB Civil Engineering Review — Special Profile (2026)**
+
+A professionally designed magazine presenting the academic and professional journey of Yousef Bahram Beigi, with a focus on structural engineering, research, optimization, artificial intelligence, education, and digital innovation.
+
+[📘 **View / Download the English PDF**](./publications/BHB_Civil_Engineering_Profile_Magazine_2026.pdf)
+
+---
+
 ### Professional & Academic Profile
 
 📍 Urmia, West Azerbaijan, Iran  
